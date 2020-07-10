@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="cinema" id="7F38E81C-F39E-D531-AAA5-3D4AC8725EC2" version="3.5">
+<createdBy>Sebastian Chuaqui</createdBy>
+<createdTime>2020-07-09 15:55:30 UTC</createdTime>
+<ownerDesignName>Cine</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>7F38E81C-F39E-D531-AAA5-3D4AC8725EC2</designId>
+</OSDM_Design>
